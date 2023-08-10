@@ -1,3 +1,12 @@
+/*Author Name=Tanush karane 
+Date = 9/8/2023
+Branch = I.T.
+Roll No=27
+Program =01
+Description=Write a function that compares two arrays and returns 1 if they are identical and 0
+otherwise.
+*/
+
 #include <stdio.h>
 int fib(int a){
     if(a==0|| a==1){
