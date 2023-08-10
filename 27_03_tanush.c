@@ -1,3 +1,12 @@
+/*
+Author Name=Tanush karane 
+Date = 6/8/2023
+Branch = I.T.
+Roll No=27
+Program =03
+Description=Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.
+*/
+
 #include<stdio.h>
 #include<string.h>
 struct student{
