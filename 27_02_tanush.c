@@ -2,7 +2,7 @@
 Author Name=Tanush karane
 Date = 6/8/2023
 Branch = I.T.
-Roll No=32
+Roll No=27
 Program =02
 Description=Write a C program to generate Pascal Triangle using array.
 */
