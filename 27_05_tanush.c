@@ -1,3 +1,13 @@
+Author Name=Tanush karane
+Date = 6/8/2023
+Branch = I.T.
+Roll No=27
+Program =05
+Write a C program to find largest element in an array
+
+
+
+
 #include<stdio.h>
 void main()
 {
