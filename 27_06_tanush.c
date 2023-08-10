@@ -1,3 +1,16 @@
+/*
+Author Name=Tanush karane
+Date = 6/8/2023
+Branch = I.T.
+Roll No=27
+Program =06
+Description=Write a menu driven program to perform the following operations in an ARRAY
+1. INSERT
+2. DELETE
+3. TRAVERSE
+4. SEARCH
+*/
+
 #include <stdio.h>
 int st[5];
 int top=-1;
