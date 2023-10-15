@@ -1,3 +1,12 @@
+/*
+Author name = Tanush karane 
+roll no = 27
+branch = IT 
+Program id = 24
+Description= Program to implement Quick  sort 
+date = 06/10/2023
+*/
+
 #include<stdio.h>
 # include <stdlib.h>
 //# include <conio.h>
