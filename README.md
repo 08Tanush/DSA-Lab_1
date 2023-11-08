@@ -8,8 +8,8 @@
 # Experiment List (Part A)
 | Question Number | Program |  Link to Code |
 |:--------:|:--------:|:--------:|
-| Q1   | Write a C program to check if a given number is Fibonacci number.   |[link] https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_01_tanush |
-| Q2   | Write a C program to generate Pascal Triangle using array.   | [Link]https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_02_tanush.c |
+| Q1   | Write a C program to check if a given number is Fibonacci number.   |[link](https://github.com/08Tanush/DSA-Lab_1/blob/0108069926562c3a4a6746697af5dbdc49f96b70/27_01_tanush)|
+| Q2   | Write a C program to generate Pascal Triangle using array.   | [Link](https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_02_tanush.c) |
 | Q3   | Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.   |  [Link](https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_03_tanush.c)  |
 | Q4   |  Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of percentange.   | [Link](https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_04_tanush.c)   |
 | Q5   | Write a C program to find largest element in an array  | [Link](https://github.com/08Tanush/DSA-Lab_1/blob/f725809c81e75caab7095c6cfcbecf31c041627b/27_05_tanush.c)   |
